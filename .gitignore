@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.db
+.env
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# macOS
+.DS_Store
